@@ -1,6 +1,8 @@
 # CodeZineNewInLaravel
 CodeZine「最新Laravelアップデート解説」のサンプル。
 
+https://codezine.jp/article/corner/1091
+
 ## 各プロジェクトの起動方法
 あらかじめ`.env.example`をファイルごとコピー&ペースとして`.env`ファイルとする。その後、プロジェクトフォルダーで以下のコマンドを実行する。
 ```
